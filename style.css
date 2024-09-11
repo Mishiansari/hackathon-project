@@ -1,0 +1,23 @@
+body{
+   background-color: rgba(247, 244, 248, 0.322);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px;
+    color: black;
+}
+header{
+    text-align: center;
+    margin-bottom: 30px;
+}
+section{
+    margin-bottom: 30px;
+}
+h1,h2{
+    color: rgb(9, 56, 73);
+    font-weight: 20px;
+    background-color: rgb(230, 215, 215);
+}
+skills{
+    background-color: darksalmon;
+    padding: 20px;
+}
